@@ -1,6 +1,6 @@
 mirv_streams actions add glowColorMap blastGlow
 
-mirv_streams actions edit blastGlow load "G:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\blast\blast.afxlut" // update this path to yours.
+mirv_streams actions edit blastGlow load "C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\......." // update this path to yours.
 
 mirv_streams add baseFx blast
 mirv_streams edit blast forceBuildingCubeMaps 0
